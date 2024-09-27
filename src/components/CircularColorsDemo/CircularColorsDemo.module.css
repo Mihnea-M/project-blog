@@ -30,6 +30,7 @@
   opacity: 1;
 }
 .selectedColorOutline {
+  z-index: 2;
   position: absolute;
   inset: -8px;
   /* pointer-events: none; */
